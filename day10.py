@@ -1,4 +1,6 @@
 """
+@Question
+
 Write a function to flatten a nested dictionary.
 Namespace the keys with a period.
 For example, given the following dictionary:
@@ -49,3 +51,4 @@ print flatten(
     }
 }
 )
+
