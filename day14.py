@@ -28,3 +28,13 @@ def rotate_90(array):
     return array
 
 print(rotate_90([[1, 2, 3],[4, 5, 6], [7, 8, 9]]))
+
+"""
+@Solution 
+
+in place rotation
+
+https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+
+"""
+
